@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>再次建站</title>
+    <url>/2020/08/12/%E5%86%8D%E6%AC%A1%E5%BB%BA%E7%AB%99/</url>
+    <content><![CDATA[<p>工作之后，时间就很少了，抽点时间做点好玩的事情，还是挺有意思的。</p>
+]]></content>
+      <tags>
+        <tag>生活杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>惊奇</title>
+    <url>/2020/08/13/%E6%83%8A%E5%A5%87/</url>
+    <content><![CDATA[<p>上班以后突然觉得学习很好玩是怎么回事！！</p>
+]]></content>
+      <tags>
+        <tag>生活杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>思维技巧</title>
+    <url>/2020/08/13/%E6%80%9D%E7%BB%B4%E6%8A%80%E5%B7%A7/</url>
+    <content><![CDATA[<h2 id="数据分析技巧"><a href="#数据分析技巧" class="headerlink" title="数据分析技巧"></a>数据分析技巧</h2><p>三种核心思想是框架型的指引，实际应用中也应该借助思维的技巧工具，达到四两拨千金的效果。并且，它们应该足够简单和有效</p>
+<h2 id="一、-象限法"><a href="#一、-象限法" class="headerlink" title="一、 象限法"></a>一、 象限法</h2><p><img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-11-23-36-image.png" alt="" width="285" data-align="center"><img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-11-24-08-image.png" alt="" width="310" data-align="center"></p>
+<p><strong>核心</strong></p>
+<p>象限法是一种策略驱动的思维模型</p>
+<p><strong>优点</strong></p>
+<p>直观清晰，对数据进行人工的划分。划分结果可以直接应用于策略</p>
+<p><strong>应用</strong></p>
+<p>使用范围广、策略分析、产品分析、市场分析、客户管理、用户管理、商品管理等</p>
+<p><strong>须知</strong></p>
+<p>象限互粉可以按中位数，也可以按平均数，或者是经验</p>
+<h2 id="二、多维法"><a href="#二、多维法" class="headerlink" title="二、多维法"></a>二、多维法</h2><blockquote>
+<p><strong>辛普森悖论</strong></p>
+<p>    当人们尝试探究两种变量（比如新生录取率与性别）是否具有相关性的时候，会分别对之进行分组研究。然而，在分组比较中都占优势的一方，在总评中有时反而是失势的一方。</p>
+</blockquote>
+<img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-11-38-39-image.png" alt="" width="533" data-align="center">
+
+<p>为了能全面的观察数据，我们需要对数据进行不同维度的观察。通过以下方法可以多维度观察数据。</p>
+<p><img src="C:\Users\Bancine\AppData\Roaming\marktext\images\2020-07-12-11-43-30-image.png"></p>
+<p><strong>核心</strong></p>
+<p>多维法是一种精细驱动的思维</p>
+<p><strong>优点</strong></p>
+<p>处理大数据量，维度丰富且复杂的数据有较好的效果。但是维度过多会消耗不少时间。</p>
+<p><strong>应用</strong></p>
+<p>只要数据齐全且丰富都可以应用</p>
+<p><strong>须知</strong></p>
+<p>对不同维度进行交叉分析时，需要注意辛普森悖论</p>
+<h2 id="三、假设法"><a href="#三、假设法" class="headerlink" title="三、假设法"></a>三、假设法</h2><blockquote>
+<p><em>现在，马上，公司要派你去贝宁出差，如果你只能携带一个背包，你会往里面装什么东西？你为什么要忘里面装它？</em></p>
+<p><strong>普通人</strong></p>
+<p>“衣服，鞋子….”</p>
+<p><strong>受过思维训练的人</strong></p>
+<p>“答案可以有千百种，但是最恰当的回答是：虽然贝宁这个地方我并不熟悉，但我假设它在非洲，那么现在我得考虑炎热的情况…”</p>
+</blockquote>
+<p><strong>假设案例</strong></p>
+<blockquote>
+<p>公司在节日迚行了一次营销活劢，APP上的销量数据整体比上周上升了20%。因为统计失误问题，拿不到明细数据，也就是说，活劢效果是一个黑盒。现在的问题是，销量本身就有可能因为节日而提高，那么怎么证明活劢是有效戒者无效的呢？</p>
+</blockquote>
+<p><em>假设活动是有效的</em></p>
+<ul>
+<li><p>活动有效会发生什么？</p>
+<ul>
+<li>会有一定数量的用户购买，如果能证明这条，那么我们有理由相信活动是有效的。</li>
+</ul>
+</li>
+<li><p>用户通过活动购买商品，会发生什么可观测的行为？</p>
+<ul>
+<li>假设有一些用户评论留言，那么可以统计提及活动的字眼。</li>
+</ul>
+</li>
+<li><p>当用户提及了这次营销活动，接下来的问题是，有效了多少？10%？20%？</p>
+<ul>
+<li>假设参与活动的用户行为没有发生变化，那么通过历史数据的用户评论占比，反推购买人数。</li>
+</ul>
+</li>
+</ul>
+<p><strong>核心</strong><br>假设是一种启发思考驱动的思维</p>
+<p><strong>优点</strong></p>
+<p>当没有直观数据或者线索能分析时，以假设先行的方式进行推断，是一个论证的过程。</p>
+<p><strong>应用</strong></p>
+<p>他更多是一种思考方式，假设——验证——判断</p>
+<p><strong>须知</strong></p>
+<p>不止可以假设前提，也能假设概率或者比例，一切都能假设，只要自圆其说。</p>
+<h2 id="四、指数法"><a href="#四、指数法" class="headerlink" title="四、指数法"></a>四、指数法</h2><img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-15-58-34-image.png" alt="" data-align="center" width="296">
+
+<p>很多时候，我们有数据，但不知道怎么应用。就是因为缺乏了一个有效性的方向。这个方向可以成为<mark>目标指数</mark>。通过将数据加工成指数，达到聚焦的目的。</p>
+<p><strong>核心</strong></p>
+<p>指数法是一种目标驱动的思维</p>
+<p><strong>优点</strong></p>
+<p>目标驱动力强，直观，简洁，有效。对业务有一定的指导作用。一旦设立指数，不易频繁变动</p>
+<p><strong>应用</strong></p>
+<p>和假设法不同，假设法是缺乏有效的数据，指数法是无法利用数据而将其加工成可利用的。</p>
+<p><strong>须知</strong></p>
+<p>指数法没法统一的标准，很多指数更依赖于经验的加工。</p>
+<h2 id="五、二八法"><a href="#五、二八法" class="headerlink" title="五、二八法"></a>五、二八法</h2><img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-16-24-31-image.png" alt="" width="317" data-align="center">
+
+<p><strong>TopN</strong></p>
+<p>持续关注TopN的数据，是一个非常好的习惯，尤其在部分行业</p>
+<p>虽然指标很多，但往往某些指标更有价值，二八法则不仅能分析数据，也能管理数据</p>
+<p><strong>核心</strong></p>
+<p>二八法是一种只抓重点的思维</p>
+<p><strong>优点</strong></p>
+<p>和业务紧密相关，和kpi紧密相关，几乎花最少的精力就能达到不错的效果，性价比很优秀</p>
+<p><strong>应用</strong></p>
+<p>二八法则存在亍几乎所有的领域，所以这种分析思维没有局限。</p>
+<p><strong>须知</strong></p>
+<p>在条件允许的情况下，数据分析依旧不能放弃全局，否则会让思路变得狭隘</p>
+<h2 id="六、对比法"><a href="#六、对比法" class="headerlink" title="六、对比法"></a>六、对比法</h2><blockquote>
+<p>好的数据指标，一定是比例或者比率<br>好的数据分析，一定会用到对比</p>
+<p>——佚名</p>
+</blockquote>
+<p><strong>案例</strong></p>
+<blockquote>
+<p>老王卖水果，今天卖了1000元水果，这个数据有分析价值么？</p>
+<p>老王卖水果，今天卖了1000元，昨天卖了800元，这个数据有分析价么？</p>
+<p>老王卖水果，今天卖了1000元。隔壁的老马卖了2000元，这个数据分有价值么？</p>
+<p>老王卖水果，今天卖了1000元，昨天卖了800元，隔壁的老马昨天卖了3000元，今天卖了2000元，这个数据分析有价值么？</p>
+<p>老王花了3000元的营销成本卖了1000元水果，这个数据分析价值么？</p>
+<p>老王其实是王健林，他有几百亿资产，他卖水果卖了1000元，这个数据分析有价值么？</p>
+</blockquote>
+<img src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-16-51-32-image.png" title="" alt="" data-align="center">
+
+<p><strong>核心</strong></p>
+<p>对比法是一种挖掘数据规律的思考方式</p>
+<p><strong>优点</strong></p>
+<p>对比法可以发现很多数据间的规律，它可以不仸何思维技巧结合，比如多维对比、象限对比、假设对比等</p>
+<p><strong>应用</strong></p>
+<p>对比更多是一种习惯，是数据分析的牛角尖，一次合格的分析，一定要用到<br>n次对比</p>
+<p><strong>须知</strong></p>
+<p>在条件允许的情况下，数据分析依旧不能放弃全局，否则会让思路变得狭隘</p>
+<h2 id="七、漏斗法"><a href="#七、漏斗法" class="headerlink" title="七、漏斗法"></a>七、漏斗法</h2><p><img src="C:\Users\Bancine\AppData\Roaming\marktext\images\2020-07-12-17-41-24-image.png"></p>
+<p><strong>核心</strong></p>
+<p>漏斗法是一种流程化思考方式</p>
+<p><strong>优点</strong></p>
+<p>单一的漏斗分析没有用，转化 率20%，但是能说明什么呢？它要和其他分析思维结合，比如多维，比如对比</p>
+<p><strong>应用</strong></p>
+<p>涉及到变化和流程的都能用</p>
+<p><strong>须知</strong></p>
+<p>单一的转化率没有，单一的转化率没有，单一的转化率没有。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>数据分析核心思维</title>
+    <url>/2020/08/13/%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E6%A0%B8%E5%BF%83%E6%80%9D%E7%BB%B4/</url>
+    <content><![CDATA[<h2 id="一、结构化思维"><a href="#一、结构化思维" class="headerlink" title="一、结构化思维"></a>一、结构化思维</h2><ul>
+<li><p>将论点归纳和整理</p>
+</li>
+<li><p>将论点递进和拆解</p>
+</li>
+<li><p>将论点完善和补充</p>
+</li>
+</ul>
+<img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-09-10-19-image.png" alt="" width="441" data-align="center">
+
+<p><strong>金字塔结构的思维</strong></p>
+<ul>
+<li><p>核心论点</p>
+<p><code>寻找金字塔的塔顶，它可以是假设，是问题，是预测，是原因</code></p>
+</li>
+<li><p>结构拆解</p>
+<p><code>自上而下，将核心论点层层拆解成分论点，上下之间呈因果或依赖关系</code></p>
+</li>
+<li><p>MECE</p>
+<p><code>相互独立，完全穷尽，论点之间避免交叉和重复，分论点要尽量完善</code></p>
+</li>
+<li><p>验证</p>
+<p><code>不论核心论点还是分论点，都应该是可量化的，用数据说话，他们必然是可验证的</code></p>
+</li>
+</ul>
+<p>一般通过<mark>思维导图</mark>或<mark>团队头脑风暴</mark>实现结构化思维</p>
+<h2 id="二、公式化思维"><a href="#二、公式化思维" class="headerlink" title="二、公式化思维"></a>二、公式化思维</h2><p>    即使使用结构化的思维来思考问题了，若是无法量化，公式化，也是无法通过数据来实现支撑的。</p>
+<p>    所谓公式化思维，就是把结构化中的分论点量化为可计算的公式。</p>
+<p>   如何实现公式化呢，简单来说就是，<mark>在思维导图中，上下互为计算，左右呈关联</mark></p>
+<img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-09-36-32-image.png" alt="" width="475" data-align="center">
+
+<p>例图如下所示：</p>
+<img title="" src="file:///C:/Users/Bancine/AppData/Roaming/marktext/images/2020-07-12-09-39-02-image.png" alt="" width="527" data-align="center">
+
+<p><strong>四则运算</strong></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">+ 加思维法：不同类别的业务叠加可以用加法</span><br><span class="line">- 减法思维：业务间的逻辑关系可以用减法</span><br><span class="line">× &amp;&amp; ÷ 乘和除的思维：用来表示各种比例或比率</span><br></pre></td></tr></table></figure>
+
+
+
+<h2 id="三、业务化思维"><a href="#三、业务化思维" class="headerlink" title="三、业务化思维"></a>三、业务化思维</h2><p>    一个很重要的思维是业务化思维，如果只是结构化和公式化，那么分析是无法落地的，还需要对业务很熟悉才行。例如，分析共享单车就要考虑损耗，人口分布等。</p>
+<p>    分析有没有贴合业务可以问问这三个问题</p>
+<ul>
+<li><p>有没有从业务方的角度考虑？</p>
+</li>
+<li><p>真的分析出原因了吗？</p>
+</li>
+<li><p>能不能将分析结果落地？</p>
+</li>
+<li><p>如果答案是否的话，为什么？</p>
+</li>
+</ul>
+<p>用结构化+公式化拆解，获得的最终分析论点，很多时候是<mark>现象</mark>。数据是某个结果的体现，而<mark>不代表原因</mark>。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">结构化思维（捋顺思路）—— 公式化（将其可数据化）—— 结构化业务数据（落地，贴合业务）</span><br></pre></td></tr></table></figure>]]></content>
+  </entry>
+  <entry>
+    <title>数组树形结构转json</title>
+    <url>/2020/08/18/excel%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84%E8%BD%ACjson/</url>
+    <content><![CDATA[<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> json</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义json样式结构树</span></span><br><span class="line">d = &#123;</span><br><span class="line">    <span class="string">&quot;name&quot;</span>: <span class="string">&quot;根&quot;</span>,</span><br><span class="line">    <span class="string">&quot;children&quot;</span>: []</span><br><span class="line">&#125;</span><br><span class="line"><span class="comment"># 打印结构样子</span></span><br><span class="line">print(json.dumps(d, indent=<span class="number">4</span>, ensure_ascii=<span class="literal">False</span>))</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定义数据[(当前节点编号, 父亲节点编号)...]</span></span><br><span class="line">data = [</span><br><span class="line">    (<span class="string">&quot;1&quot;</span>, <span class="string">&quot;根&quot;</span>),</span><br><span class="line">    (<span class="string">&quot;2&quot;</span>, <span class="string">&quot;1&quot;</span>),</span><br><span class="line">    (<span class="string">&quot;3&quot;</span>, <span class="string">&quot;1&quot;</span>),</span><br><span class="line">    (<span class="string">&quot;4&quot;</span>, <span class="string">&quot;2&quot;</span>),</span><br><span class="line">    (<span class="string">&quot;5&quot;</span>, <span class="string">&quot;2&quot;</span>),</span><br><span class="line">    (<span class="string">&quot;6&quot;</span>, <span class="string">&quot;3&quot;</span>),</span><br><span class="line">]</span><br><span class="line"></span><br><span class="line"><span class="comment"># 打印数据</span></span><br><span class="line">print(data)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 查找父亲节点的函数</span></span><br><span class="line"><span class="function"><span class="keyword">def</span> <span class="title">findFatherNode</span>(<span class="params">fatherName, data</span>):</span></span><br><span class="line">    <span class="keyword">if</span> data[<span class="string">&#x27;name&#x27;</span>] == fatherName:</span><br><span class="line">        <span class="keyword">return</span> data</span><br><span class="line">    <span class="keyword">for</span> i <span class="keyword">in</span> data[<span class="string">&quot;children&quot;</span>]:</span><br><span class="line">        node = findFatherNode(fatherName, i)</span><br><span class="line">        <span class="keyword">if</span> node <span class="keyword">is</span> <span class="keyword">not</span> <span class="literal">None</span>:</span><br><span class="line">            <span class="keyword">return</span> node</span><br><span class="line">    <span class="keyword">return</span> <span class="literal">None</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 遍历数据，并将数据添加到json结构树中</span></span><br><span class="line"><span class="keyword">for</span> i <span class="keyword">in</span> data:</span><br><span class="line">    node = findFatherNode(i[<span class="number">1</span>], d)</span><br><span class="line">    <span class="keyword">if</span> node <span class="keyword">is</span> <span class="keyword">not</span> <span class="literal">None</span>:</span><br><span class="line">        node[<span class="string">&quot;children&quot;</span>].append(&#123;</span><br><span class="line">            <span class="string">&quot;name&quot;</span>: i[<span class="number">0</span>],</span><br><span class="line">            <span class="string">&quot;children&quot;</span>: []</span><br><span class="line">        &#125;)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 打印结果</span></span><br><span class="line">print(json.dumps(d, indent=<span class="number">4</span>, ensure_ascii=<span class="literal">False</span>))</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用python批量读取excel</title>
+    <url>/2020/08/18/%E7%94%A8python%E6%89%B9%E9%87%8F%E8%AF%BB%E5%8F%96excel/</url>
+    <content><![CDATA[<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> pandas <span class="keyword">as</span> pd</span><br><span class="line"><span class="keyword">import</span> numpy <span class="keyword">as</span> np</span><br><span class="line"><span class="keyword">import</span> glob,os</span><br><span class="line"><span class="keyword">import</span> matplotlib.pyplot <span class="keyword">as</span> plt</span><br><span class="line">path=<span class="string">r&#x27;C:\Users\Bancine\Desktop\a.xlsx&#x27;</span>        <span class="comment">#批量表格所在文件路径</span></span><br><span class="line">file=glob.glob(os.path.join(path, <span class="string">&quot;*.csv&quot;</span>))      <span class="comment">#每一个表格相同名称部分</span></span><br><span class="line">print(file)</span><br><span class="line">dl= []</span><br><span class="line"><span class="keyword">for</span> f <span class="keyword">in</span> file:</span><br><span class="line">    dl.append(pd.read_csv(f,index_col=<span class="literal">None</span>,encoding=<span class="string">&#x27;gbk&#x27;</span>))     <span class="comment">#读取每个表格</span></span><br><span class="line">    ac_df=pd.concat(dl)</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>用python操作excel</title>
+    <url>/2020/08/18/%E7%94%A8python%E6%93%8D%E4%BD%9Cexcel/</url>
+    <content><![CDATA[<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">import</span> openpyxl</span><br><span class="line"><span class="comment"># 创建一个工作簿</span></span><br><span class="line">wb = openpyxl.Workbook()</span><br><span class="line"><span class="comment"># 创建一个test_case的sheet表单</span></span><br><span class="line">wb.create_sheet(<span class="string">&#x27;test_case&#x27;</span>)</span><br><span class="line"><span class="comment"># 保存为一个xlsx格式的文件</span></span><br><span class="line">wb.save(<span class="string">&#x27;cases.xlsx&#x27;</span>)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 读取excel中的数据</span></span><br><span class="line"><span class="comment"># 第一步：打开工作簿</span></span><br><span class="line">wb = openpyxl.load_workbook(<span class="string">r&#x27;C:\Users\Bancine\IdeaProjects\test3\src\用户&amp;推荐人V2.xlsx&#x27;</span>)</span><br><span class="line"><span class="comment"># 第二步：选取表单</span></span><br><span class="line">sh = wb[<span class="string">&#x27;Table&#x27;</span>]</span><br><span class="line"><span class="comment"># 第三步：读取数据</span></span><br><span class="line"><span class="comment"># 参数 row:行  column：列</span></span><br><span class="line">ce = sh.cell(row = <span class="number">1</span>,column = <span class="number">1</span>)   <span class="comment"># 读取第一行，第一列的数据</span></span><br><span class="line">print(ce.value)</span><br><span class="line"></span><br><span class="line"></span><br><span class="line"></span><br><span class="line"><span class="comment"># 按行读取数据 list(sh.rows)</span></span><br><span class="line">print(list(sh.rows)[<span class="number">1</span>:])     <span class="comment"># 按行读取数据，去掉第一行的表头信息数据</span></span><br><span class="line"><span class="keyword">for</span> cases <span class="keyword">in</span> list(sh.rows)[<span class="number">1</span>:]:</span><br><span class="line">    case_id =  cases[<span class="number">0</span>].value</span><br><span class="line">    case_excepted = cases[<span class="number">1</span>].value</span><br><span class="line">    case_data = cases[<span class="number">2</span>].value</span><br><span class="line">    print(case_excepted,case_data)</span><br><span class="line"><span class="comment"># 关闭工作薄</span></span><br><span class="line">wb.close()</span><br></pre></td></tr></table></figure>
+
+]]></content>
+      <tags>
+        <tag>python</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>福格模型牛x哦～</title>
+    <url>/2020/09/27/%E7%A6%8F%E6%A0%BC%E6%A8%A1%E5%9E%8B%E7%89%9B%E6%B0%94/</url>
+    <content><![CDATA[<h2 id="福格模型的意义"><a href="#福格模型的意义" class="headerlink" title="福格模型的意义"></a>福格模型的意义</h2><p>用来探究他人行为产生的原因</p>
+<h2 id="福格模型的使用场景"><a href="#福格模型的使用场景" class="headerlink" title="福格模型的使用场景"></a>福格模型的使用场景</h2><p>解决人类行为的相关场景</p>
+<h2 id="行为的产生"><a href="#行为的产生" class="headerlink" title="行为的产生"></a>行为的产生</h2><p>行为的产生包含三个要素 <strong>动机、能力、触发器</strong></p>
+<img src="/Users/bancine/Library/Application Support/typora-user-images/image-20200927210122404.png" alt="image-20200927210122404" style="zoom:80%;" />
+
+<p>举个例子：</p>
+<p>最近Steam上买了一个新的游戏（行为）。</p>
+<p>如果我想买（动机）那可能是因为，这个游戏很好玩（寻觅快乐）或者打发时间（免除痛苦）。</p>
+<p>然后我犹豫了，有点贵（金钱成本），打游戏使我头秃（形象成本），想打游戏也想做别的事情（决策成本），这游戏操作难度还大（学习成本），打游戏也挺费时间的（时间成本）。</p>
+<p>最后还是买了，这可是珍藏版啊（情绪触发），而且这个游戏的上个版本就很牛，这个应该更好玩！（场景触发）</p>
+]]></content>
+      <tags>
+        <tag>思维模型</tag>
+      </tags>
+  </entry>
+</search>
